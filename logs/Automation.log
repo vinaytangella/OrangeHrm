@@ -1,0 +1,12 @@
+2017-02-03 23:36:40 INFO  Selenium log:43 - All the properties are being loaded from the pathD:\Selenium_Python\TestNg_OrangeHRM//locators//LoginScreen.properties
+2017-02-03 23:36:40 INFO  Selenium log:53 - The chrome driver executable is being set from the path: D:\Selenium_Python\TestNg_OrangeHRM//drivers//chromedriver.exe
+2017-02-03 23:43:39 INFO  Selenium log:43 - All the properties are being loaded from the pathD:\Selenium_Python\TestNg_OrangeHRM//locators//LoginScreen.properties
+2017-02-03 23:43:39 INFO  Selenium log:48 - File Input Stream has been created and all the properties have been loaded
+2017-02-03 23:43:39 INFO  Selenium log:54 - The chrome driver executable is being set from the path: D:\Selenium_Python\TestNg_OrangeHRM//drivers//chromedriver.exe
+2017-02-03 23:43:43 INFO  Selenium log:57 - WebDriver has been instantiated to Chrome browser
+2017-02-03 23:47:29 INFO  Selenium log:39 - All the properties are being loaded from the pathD:\Selenium_Python\TestNg_OrangeHRM//locators//LoginScreen.properties
+2017-02-03 23:47:29 INFO  Selenium log:44 - File Input Stream has been created and all the properties have been loaded
+2017-02-03 23:47:51 INFO  Selenium log:65 - WebDriver has been instantiated to Firefox browser
+2017-02-07 20:33:50 INFO  Selenium log:39 - All the properties are being loaded from the pathD:\Selenium_Python\TestNg_OrangeHRM//locators//LoginScreen.properties
+2017-02-07 20:33:50 INFO  Selenium log:44 - File Input Stream has been created and all the properties have been loaded
+2017-02-07 20:34:12 INFO  Selenium log:65 - WebDriver has been instantiated to Firefox browser

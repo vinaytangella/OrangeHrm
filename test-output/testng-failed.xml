@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="sBrowserName" value="firefox"/>
+  <parameter name="sUrl" value="http://test14859932251.trials54.orangehrmlive.com/"/>
+  <test name="Test(failed)">
+    <parameter name="sUsername" value="Admin"/>
+    <parameter name="sPassword" value="r7bftlfk"/>
+    <classes>
+      <class name="org.qa.OrangeHrm.Base">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="logout"/>
+          <include name="training_Test"/>
+        </methods>
+      </class> <!-- org.qa.OrangeHrm.Base -->
+      <class name="org.qa.OrangeHrm.PIMManagement">
+        <methods>
+          <include name="add_Employee"/>
+        </methods>
+      </class> <!-- org.qa.OrangeHrm.PIMManagement -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

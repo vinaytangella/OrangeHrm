@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+	<parameter name="sUrl" value="http://test14859932251.trials54.orangehrmlive.com/"></parameter>
+	<parameter name="sBrowserName" value="firefox"></parameter>
+  	<test name="Test">
+  		<parameter name="sUsername" value="Admin"></parameter>
+  		<parameter name="sPassword" value="r7bftlfk"></parameter>
+    <classes>
+      <class name="org.qa.OrangeHrm.Base"/>
+      <class name="org.qa.OrangeHrm.UserManagement"/>
+      <class name="org.qa.OrangeHrm.PIMManagement"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
